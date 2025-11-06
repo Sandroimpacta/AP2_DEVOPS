@@ -22,12 +22,6 @@ Docker (opcional, para deploy)
 
 📦 Instalação
 
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/dashboard-vendas.git
-cd dashboard-vendas
-
-
 Crie e ative um ambiente virtual (recomendado):
 
 python -m venv venv
@@ -141,10 +135,11 @@ O dashboard estará disponível em: http://localhost:8501
 
 👨‍💻 Autor
 
-Nome: Seu Nome
+Nome: Sandro
 
-Email: seu.email@exemplo.com
+Email: sandro.f67@gmail.com
 
-GitHub: seu-usuario
+GitHub:Sandroimpacta
+
 
 
