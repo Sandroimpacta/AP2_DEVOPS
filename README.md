@@ -1,7 +1,3 @@
-﻿# AP2_DEVOPS
-
-# AP2_DEVOPS
-
 Dashboard de Análise de Vendas
 
 Um dashboard interativo para visualizar e analisar dados de vendas, com a possibilidade de adicionar novas vendas diretamente pela interface web.
@@ -150,4 +146,5 @@ Nome: Seu Nome
 Email: seu.email@exemplo.com
 
 GitHub: seu-usuario
+
 
